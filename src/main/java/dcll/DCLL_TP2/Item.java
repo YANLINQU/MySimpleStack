@@ -9,7 +9,9 @@ public class Item {
     Item(Object value){
         setValue(value);
     }
-
+    /*
+    * Un commentaire repondant a l'exigence #1
+    * */
     public Object getValue(){
         return value;
     }
